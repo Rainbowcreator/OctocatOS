@@ -1,5 +1,7 @@
 # OctocatOS
 OctocatOS: Embarking on a New Journey of Operating Systems
+
+# [Please see Create OctocatOS_operating_system_copyright_statement.md](https://github.com/Rainbowcreator/OctocatOS/blob/OctocatOS/OctocatOS_operating_system_copyright_statement.md)
  
 # 1. Introduction
  

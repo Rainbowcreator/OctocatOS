@@ -1,5 +1,5 @@
 # OctocatOS
-# Please jump to the OctocatOS project branch, thank you! [Switch to OctocatOS](https://github.com/Rainbowcreator/OctocatOS/OctocatOS)
+# Please jump to the OctocatOS project branch, thank you! [Switch to OctocatOS](https://github.com/Rainbowcreator/OctocatOS/tree/OctocatOS)
 # OctocatOS
 OctocatOS: Embarking on a New Journey of Operating Systems
  
